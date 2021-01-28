@@ -1,11 +1,11 @@
 {
-  "Products": {
+  "Product": {
     "Name": "string",
     "Description": "string",
     "quantity": "int",
     "premium": "boolean"
   },
-  "Services": {
+  "Service": {
     "body": "string",
     "post": "Post"
   }
