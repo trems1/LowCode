@@ -1,12 +1,11 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
+  "Products": {
+    "Name": "string",
+    "Description": "string",
+    "quantity": "int",
+    "premium": "boolean"
   },
-  "Comment": {
+  "Services": {
     "body": "string",
     "post": "Post"
   }
