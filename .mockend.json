@@ -1,7 +1,8 @@
 {
   "Product": {
-    "Name": "string",
-    "Description": "string",
+    "name": "string",
+    "description": "string",
+    "version": "int",
     "quantity": "int",
     "premium": "boolean"
   },
